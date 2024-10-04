@@ -86,7 +86,7 @@ dependencies:
       - hstspreload==2024.9.1
       - httpcore==0.9.1
       - httplib2==0.22.0
-      - httpx==0.13.3
+      - httpx>=0.15.0
       - huggingface-hub==0.25.1
       - hyperframe==5.2.0
       - idna==2.10
