@@ -1,16 +1,6 @@
 version: '3.8'
 
 services:
-  elasticsearch:
-    image: docker.elastic.co/elasticsearch/elasticsearch:8.4.3
-    container_name: elasticsearch
-    environment:
-      - discovery.type=single-node
-      - xpack.security.enabled=false
-    ports:
-      - "9200:9200"
-      - "9300:9300"
-    mem_limit: 2g      # Limit Elasticsearch to 2GB of memory
 
   ollama:
     image: ollama/ollama
