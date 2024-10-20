@@ -1,0 +1,491 @@
+question,course,document
+What happens if I can't make the first Office Hours live session on January 15th?,data-engineering-zoomcamp,c02e79ef
+Is there a recording of the Office Hours session available if I miss it?,data-engineering-zoomcamp,c02e79ef
+Where can I find the link to register for the course?,data-engineering-zoomcamp,c02e79ef
+How do I subscribe to the Google Calendar from my mobile phone?,data-engineering-zoomcamp,c02e79ef
+Will the course materials be available before January 15th?,data-engineering-zoomcamp,c02e79ef
+"What specific programming languages should I be comfortable with before starting the course, based on the prerequisites link?",data-engineering-zoomcamp,1f6520ca
+Is there a recommended level of familiarity with SQL for this course?,data-engineering-zoomcamp,1f6520ca
+"The prerequisites mention Docker; how essential is prior Docker experience, and are there resources to help me learn it before starting?",data-engineering-zoomcamp,1f6520ca
+"Besides the technical prerequisites, are there any recommended soft skills or prior experience with teamwork that would be beneficial?",data-engineering-zoomcamp,1f6520ca
+"The GitHub link mentions several topics – are all of them equally crucial for successful course completion, or are some more important than others?",data-engineering-zoomcamp,1f6520ca
+"If I join late, will I have access to all the course materials from the beginning?",data-engineering-zoomcamp,7842b56a
+What happens if I miss the deadlines for the homeworks?,data-engineering-zoomcamp,7842b56a
+Are there any penalties for joining the course after the start date?,data-engineering-zoomcamp,7842b56a
+Will I be able to participate in any discussions or forums if I join late?,data-engineering-zoomcamp,7842b56a
+"What exactly are the deadlines for the final projects, and how are they communicated?",data-engineering-zoomcamp,7842b56a
+"If registration isn't mandatory, why did you even ask us to register?",data-engineering-zoomcamp,0bbf41ec
+What happens if I don't submit homework?,data-engineering-zoomcamp,0bbf41ec
+Is there a deadline to start the course materials?,data-engineering-zoomcamp,0bbf41ec
+Will there be any consequences if I registered late?,data-engineering-zoomcamp,0bbf41ec
+"Are there any benefits to registering for the course, even if it's not required?",data-engineering-zoomcamp,0bbf41ec
+Is there a specific version of Python 3 and Anaconda recommended for the course?,data-engineering-zoomcamp,63394d91
+Where can I find detailed instructions on installing and configuring the Google Cloud SDK?,data-engineering-zoomcamp,63394d91
+What are the minimum system requirements for running the course software?,data-engineering-zoomcamp,63394d91
+The syllabus mentions prerequisites in linear algebra; how crucial is this knowledge for successfully completing the course?,data-engineering-zoomcamp,63394d91
+"If I'm already familiar with Git, is there any specific Git workflow or configuration you recommend for this course?",data-engineering-zoomcamp,63394d91
+"If I'm not aiming for a certificate, can I still participate in the live Zoomcamp sessions?",data-engineering-zoomcamp,2ed9b986
+Are the recordings for each Zoomcamp available even if I join outside the live cohort?,data-engineering-zoomcamp,2ed9b986
+What's the difference between a live cohort and self-paced learning for these Zoomcamps?,data-engineering-zoomcamp,2ed9b986
+"Do the materials and curriculum change significantly between different years for the same Zoomcamp (e.g., Data-Engineering in 2023 vs 2024)?",data-engineering-zoomcamp,2ed9b986
+"If I start the Machine Learning Zoomcamp in October, will I be able to finish it before the next Data-Engineering Zoomcamp starts in January?",data-engineering-zoomcamp,2ed9b986
+Will the assignments and projects also be different given the change in tools?,data-engineering-zoomcamp,93e2c8ed
+Are the re-recorded Terraform videos significantly improved compared to the previous versions?,data-engineering-zoomcamp,93e2c8ed
+Where can I find the old Prefect materials from the 2023 cohort?,data-engineering-zoomcamp,93e2c8ed
+What specific advantages does Mage AI offer over Prefect for this course?,data-engineering-zoomcamp,93e2c8ed
+Will the grading rubrics be adjusted to reflect the use of Mage AI?,data-engineering-zoomcamp,93e2c8ed
+Will the online platform remain accessible even after the course officially ends?,data-engineering-zoomcamp,a482086d
+"If I access the materials after the course, will I still have access to any instructor support or Q&A forums?",data-engineering-zoomcamp,a482086d
+How long will the course materials remain available after the course concludes?,data-engineering-zoomcamp,a482086d
+Can I start working on the final capstone project before the course officially ends?,data-engineering-zoomcamp,a482086d
+"Will future cohorts have significantly different course materials, or can I use previous cohorts' homeworks to prepare?",data-engineering-zoomcamp,a482086d
+How responsive is the Slack channel for self-paced learners?,data-engineering-zoomcamp,eb56ae98
+What kind of questions are typically *not* answered in the FAQ or Slack channel?,data-engineering-zoomcamp,eb56ae98
+Are there any limitations to the support offered in self-paced mode compared to the instructor-led mode?,data-engineering-zoomcamp,eb56ae98
+How accurate is the @ZoomcampQABot usually?,data-engineering-zoomcamp,eb56ae98
+"If the @ZoomcampQABot and the FAQ don't answer my question, what's the next step?",data-engineering-zoomcamp,eb56ae98
+"Is there a separate playlist for each year's content, or are all years included in the main playlist?",data-engineering-zoomcamp,4292531b
+"If I find a video on the Github repository, will it automatically open the correct spot in the YouTube playlist?",data-engineering-zoomcamp,4292531b
+Are the office hours videos included in the main playlist or a separate one?,data-engineering-zoomcamp,4292531b
+The link provided seems to only be for the main playlist. Where can I find the year-specific playlists?,data-engineering-zoomcamp,4292531b
+Is the Slack channel playlist always up-to-date with the YouTube playlist?,data-engineering-zoomcamp,4292531b
+What constitutes a 'module' in the context of this answer?,data-engineering-zoomcamp,ea739c65
+Is the 5-15 hour estimate per week inclusive of lectures and tutorials?,data-engineering-zoomcamp,ea739c65
+Are the sources [source1] and [source2] available to students?,data-engineering-zoomcamp,ea739c65
+How can I use the provided data to calculate my own expected time commitment?,data-engineering-zoomcamp,ea739c65
+"If I have extensive prior experience in related areas, can I expect to spend less than 5 hours per week?",data-engineering-zoomcamp,ea739c65
+What exactly constitutes a 'live' cohort?  Are there specific start and end dates I should be aware of?,data-engineering-zoomcamp,cb257ee5
+"If I don't complete the course within a live cohort, are there any other ways to receive recognition for completing the coursework?",data-engineering-zoomcamp,cb257ee5
+Can I still access the course materials in self-paced mode even if I can't get a certificate?,data-engineering-zoomcamp,cb257ee5
+What happens to my project if I start it in self-paced mode and then decide to join a live cohort later?,data-engineering-zoomcamp,cb257ee5
+"How many capstones are required for the certificate, and what is the nature of the peer-review process?",data-engineering-zoomcamp,cb257ee5
+Will the YouTube Live stream be archived for later viewing?,data-engineering-zoomcamp,04aa4897
+"If I have a question during the office hour, how will I know if it was answered?",data-engineering-zoomcamp,04aa4897
+What if the Slido link isn't pinned in the YouTube chat?,data-engineering-zoomcamp,04aa4897
+Are there any other ways to ask questions besides Slido during the office hours?,data-engineering-zoomcamp,04aa4897
+Will the announcements on Telegram and Slack include the exact time the office hour begins?,data-engineering-zoomcamp,04aa4897
+Will the recordings include the Q&A sessions during the office hours?,data-engineering-zoomcamp,9681be3b
+"Where exactly will the recordings be available?  (e.g., link, platform)",data-engineering-zoomcamp,9681be3b
+"What format will the recordings be in? (e.g., MP4, MOV)",data-engineering-zoomcamp,9681be3b
+How long will the recordings be available after the course ends?,data-engineering-zoomcamp,9681be3b
+"If I have a question during office hours but can't ask live due to technical issues, can I submit it in another way for the instructor to answer in the recording?",data-engineering-zoomcamp,9681be3b
+What happens if I miss a homework deadline?,data-engineering-zoomcamp,a1daf537
+Is there a penalty for late submissions?,data-engineering-zoomcamp,a1daf537
+Where can I find the announcements from @Au-Tomator mentioned in the FAQ?,data-engineering-zoomcamp,a1daf537
+"If the Google Sheet and the announcement have different deadlines, which one should I follow?",data-engineering-zoomcamp,a1daf537
+How will I be notified about deadline changes?,data-engineering-zoomcamp,a1daf537
+What exactly constitutes 'the form still being not closed'? Is there a visual indicator?,data-engineering-zoomcamp,be5bfee4
+"If I submit after the deadline, but before the form closes, will I receive any penalty or reduced grade?",data-engineering-zoomcamp,be5bfee4
+Where exactly on the Course page can I find the date-timestamp to confirm my submission?,data-engineering-zoomcamp,be5bfee4
+"What happens if the form closes before I can submit my homework, even if it's only a few minutes late?",data-engineering-zoomcamp,be5bfee4
+"Are there any exceptions to the no late submissions policy, such as documented medical emergencies?",data-engineering-zoomcamp,be5bfee4
+"Can we collaborate on homework assignments, and if so, how should we handle contributions and credit?",data-engineering-zoomcamp,0e424a44
+"Is there a preferred platform (GitHub, GitLab, Bitbucket) for submitting homework, or can we use any?",data-engineering-zoomcamp,0e424a44
+What constitutes a 'reasonable person' in the context of homework submission?  How detailed should our commit messages be?,data-engineering-zoomcamp,0e424a44
+"If we use a private repository, how do we provide access to you for grading?",data-engineering-zoomcamp,0e424a44
+"If I'm having technical difficulties with my chosen platform (e.g., Git issues), what support is available?",data-engineering-zoomcamp,0e424a44
+Is there a point system for participation in class discussions?,data-engineering-zoomcamp,29865466
+How are the points for 'Learning in Public' awarded specifically?  What constitutes a valid link?,data-engineering-zoomcamp,29865466
+"If a homework assignment has different sections or parts with varying point values, how is the total score calculated for that assignment?",data-engineering-zoomcamp,29865466
+"Are there any penalties for late homework submissions, and how does that affect the points awarded?",data-engineering-zoomcamp,29865466
+"Will the leaderboard reflect points in real-time after homework submission and grading, or is there a delay?",data-engineering-zoomcamp,29865466
+Can I change my display name after the course has started?,data-engineering-zoomcamp,016d46a1
+"If I don't see my name on the leaderboard, does that mean I haven't submitted any homework?",data-engineering-zoomcamp,016d46a1
+Is there a way to find out my random assigned name if I've forgotten it?,data-engineering-zoomcamp,016d46a1
+"My display name isn't showing up in the Edit Course Profile section, what should I do?",data-engineering-zoomcamp,016d46a1
+How often is the leaderboard updated?,data-engineering-zoomcamp,016d46a1
+"If Python 3.9 is recommended for simplicity, what are the main compatibility issues I might encounter using Python 3.11?",data-engineering-zoomcamp,47972cb1
+Are there any specific libraries or packages that might have problems with Python 3.9 that work better on 3.10 or 3.11?,data-engineering-zoomcamp,47972cb1
+"The FAQ says 3.10 and 3.11 should work, but are there any features from those versions that aren't covered in the course materials?",data-engineering-zoomcamp,47972cb1
+Will you provide support if I encounter errors due to using Python 3.10 or 3.11 instead of 3.9?,data-engineering-zoomcamp,47972cb1
+"What are the advantages of using Python 3.11 over 3.9, beyond just newer features, considering the FAQ's emphasis on simplicity and stability?",data-engineering-zoomcamp,47972cb1
+What specific challenges might Windows users encounter when setting up the course environment locally?,data-engineering-zoomcamp,ddf6c1b3
+"If I choose to use Docker, are there any specific Docker versions or configurations recommended?",data-engineering-zoomcamp,ddf6c1b3
+Are there any pre-configured images available for setting up the environment in a VM or Codespace?,data-engineering-zoomcamp,ddf6c1b3
+What are the advantages and disadvantages of using GitHub Codespaces compared to a cloud VM like GCP?,data-engineering-zoomcamp,ddf6c1b3
+"The FAQ mentions setting up on a cloud VM, but which cloud platforms are officially supported besides GCP?",data-engineering-zoomcamp,ddf6c1b3
+Can I use other IDEs besides GitHub Codespaces with this course?,data-engineering-zoomcamp,ac25d3af
+Are there any specific Docker versions or configurations recommended for the course?,data-engineering-zoomcamp,ac25d3af
+"If I encounter Docker or Python related issues within Codespaces, where can I find support?",data-engineering-zoomcamp,ac25d3af
+Does using GitHub Codespaces affect the grading or submission process?,data-engineering-zoomcamp,ac25d3af
+"What are the limitations of using GitHub Codespaces, if any, compared to using a local machine?",data-engineering-zoomcamp,ac25d3af
+"If we don't use GitHub Codespaces, will there be any differences in grading or assessment?",data-engineering-zoomcamp,251218fc
+Are there any specific configurations or setups recommended if I choose to use my own laptop environment?,data-engineering-zoomcamp,251218fc
+Will the course materials and instructions accommodate different development environments besides GitHub Codespaces and GCP VMs?,data-engineering-zoomcamp,251218fc
+What are the potential drawbacks or challenges of using a personal laptop instead of a cloud-based environment like GitHub Codespaces?,data-engineering-zoomcamp,251218fc
+"If I encounter problems setting up my own environment, where can I find support or assistance?",data-engineering-zoomcamp,251218fc
+"If I choose a local environment, will I still be able to use BigQuery?",data-engineering-zoomcamp,3c0114ce
+What are the advantages and disadvantages of using GitHub Codespaces versus a local environment?,data-engineering-zoomcamp,3c0114ce
+Are there any specific tutorials or guides on setting up a local environment for this course?,data-engineering-zoomcamp,3c0114ce
+"Since BigQuery is part of GCP, are there any mandatory GCP components I need to learn beyond BigQuery?",data-engineering-zoomcamp,3c0114ce
+"If I'm proficient in a cloud environment other than GCP, can I still use that instead?",data-engineering-zoomcamp,3c0114ce
+What if the 'Run' command isn't available in my version of Windows?,data-engineering-zoomcamp,f43f5fe7
+"After changing the registry value, do I need to restart my computer or VSCode?",data-engineering-zoomcamp,f43f5fe7
+Where exactly can I find the 'Autorun' value within the provided registry path?  I'm having trouble locating it.,data-engineering-zoomcamp,f43f5fe7
+My known_hosts file doesn't seem to exist in that location. Could it be located elsewhere on my system?,data-engineering-zoomcamp,f43f5fe7
+"Is deleting the fingerprint from known_hosts a permanent solution, or will I have to do it every time I connect to the GCP VM?",data-engineering-zoomcamp,f43f5fe7
+"If I choose to use AWS instead of GCP, will I still have access to all course materials and support?",data-engineering-zoomcamp,d061525d
+What are the specific limitations of using a free GCP trial account for this course?,data-engineering-zoomcamp,d061525d
+"Besides BigQuery, are there other GCP services essential for completing the course assignments?",data-engineering-zoomcamp,d061525d
+"Do we need to pay for any services beyond the $300 GCP credit, even if we stick with GCP?",data-engineering-zoomcamp,d061525d
+Will using a different cloud provider (like AWS) impact my final grade or project evaluation?,data-engineering-zoomcamp,d061525d
+How long does the GCP free trial last?,data-engineering-zoomcamp,1cd01b2c
+Are there any limitations to what I can do with the free trial?,data-engineering-zoomcamp,1cd01b2c
+What happens after the GCP free trial ends?,data-engineering-zoomcamp,1cd01b2c
+"If I use a different cloud provider, will I have to pay?",data-engineering-zoomcamp,1cd01b2c
+Are there any other free resources or alternatives to cloud services that you recommend?,data-engineering-zoomcamp,1cd01b2c
+"If I choose to do the course locally, which specific tools will I need to install?",data-engineering-zoomcamp,e4a7c3b0
+Are there any performance differences I should expect between running things locally and on GCP?,data-engineering-zoomcamp,e4a7c3b0
+Will the course materials still be relevant if I'm not using BigQuery?,data-engineering-zoomcamp,e4a7c3b0
+What parts of the course will be difficult or impossible to complete without GCP or other cloud services?,data-engineering-zoomcamp,e4a7c3b0
+Are there any recommended configurations for a home lab suitable for this course?,data-engineering-zoomcamp,e4a7c3b0
+Can you provide any recommended AWS services for building the data pipeline and visualization components of the capstone project?,data-engineering-zoomcamp,7cd1912e
+Are there any specific AWS configurations or best practices you recommend for this course?,data-engineering-zoomcamp,7cd1912e
+"What are some common pitfalls students encounter when using AWS for this course, and how can I avoid them?",data-engineering-zoomcamp,7cd1912e
+"Given the potential difficulty in finding AWS-experienced peers for help, are there alternative support resources available?",data-engineering-zoomcamp,7cd1912e
+"Besides the capstone project, will any of the coursework directly utilize or benefit from familiarity with AWS services?",data-engineering-zoomcamp,7cd1912e
+Will the Capstone calls be recorded for those who can't attend live?,data-engineering-zoomcamp,52393fb3
+"How will you announce the Capstone Zoom calls – email, forum post, or both?",data-engineering-zoomcamp,52393fb3
+Is there a way to submit questions in advance for the Capstone Zoom calls?,data-engineering-zoomcamp,52393fb3
+"If we have questions outside of office hours and the Capstone calls, how should we contact you?",data-engineering-zoomcamp,52393fb3
+Are there any planned Q&A sessions before the Capstone project begins?,data-engineering-zoomcamp,52393fb3
+Is the link to the NYC Trip data the same as last year's?,data-engineering-zoomcamp,10515af5
+What specific aspects of the project remain the same as last year’s?,data-engineering-zoomcamp,10515af5
+Are there any updates or changes to the data since last year?,data-engineering-zoomcamp,10515af5
+"If the project is the same, why are we using the 2021 data and not the 2022 data?",data-engineering-zoomcamp,10515af5
+Where can we find any documentation or tutorials related to working with this dataset?,data-engineering-zoomcamp,10515af5
+Where exactly did you move the 2022 material to?  Can you provide a more specific link?,data-engineering-zoomcamp,cdb86a97
+"Will the 2022 repo be available for access throughout the course, or only for a certain period?",data-engineering-zoomcamp,cdb86a97
+Are there any significant differences between the 2022 material and the current year's content?,data-engineering-zoomcamp,cdb86a97
+"If the 2022 repo isn't deleted, why was it moved? Was it to consolidate resources?",data-engineering-zoomcamp,cdb86a97
+"Is there a complete, updated index or table of contents for where all the materials, including the moved 2022 content, are located?",data-engineering-zoomcamp,cdb86a97
+Can we use a programming language other than Python for the final project?,data-engineering-zoomcamp,3e0114ad
+Are there any specific libraries or packages we're required to use in our project?,data-engineering-zoomcamp,3e0114ad
+Is there a minimum level of functionality the final project needs to achieve?,data-engineering-zoomcamp,3e0114ad
+"Will we be graded on the specific tool we use, or is it mainly about the project's outcome?",data-engineering-zoomcamp,3e0114ad
+"If we choose a less common tool, will you provide additional support or resources?",data-engineering-zoomcamp,3e0114ad
+"Can we use a different cloud provider altogether, like Azure, instead of GCP or a local installation?",data-engineering-zoomcamp,b2799574
+"If I choose to use Airflow, will I still receive full credit for the assignments?",data-engineering-zoomcamp,b2799574
+What specific aspects of the capstone project's peer review will focus on the tool choices made?,data-engineering-zoomcamp,b2799574
+Are there any recommended alternatives to Mage that are easier to integrate with the course material?,data-engineering-zoomcamp,b2799574
+"Since you mention support limitations for alternative stacks, what kind of support will we get if we stick to the suggested tools?",data-engineering-zoomcamp,b2799574
+Does starring the repo actually help the course instructors/developers?,data-engineering-zoomcamp,2f19301f
+What kind of improvements are you looking for in PRs?  Are there specific areas you'd prioritize?,data-engineering-zoomcamp,2f19301f
+"If I share the course with friends, do I need to let you know? Is there a way to track this?",data-engineering-zoomcamp,2f19301f
+Is there a way to contribute beyond starring and creating PRs?,data-engineering-zoomcamp,2f19301f
+What's the best way to get in touch if I have a question about contributing that isn't answered here?,data-engineering-zoomcamp,2f19301f
+Does 'technically it shouldn't matter' mean there might be minor OS-specific quirks I should be aware of?,data-engineering-zoomcamp,7c700adb
+Are there any specific Linux distributions you recommend for the course?,data-engineering-zoomcamp,7c700adb
+"If I'm using a Windows machine, are there any potential compatibility issues I should anticipate?",data-engineering-zoomcamp,7c700adb
+"What software or tools are specifically required for the course, and are they compatible across all three operating systems?",data-engineering-zoomcamp,7c700adb
+Last year's success with all three OSes: are there any documented examples or resources detailing how students overcame any OS-specific challenges?,data-engineering-zoomcamp,7c700adb
+"What are the minimum system requirements for this course, especially regarding operating systems?",data-engineering-zoomcamp,44b14808
+"Are there alternative solutions for running the *.sh files on Windows besides WSL, such as specific software or workarounds?",data-engineering-zoomcamp,44b14808
+"If WSL is recommended, could you provide a step-by-step guide or link to a tutorial on how to set it up for this course?",data-engineering-zoomcamp,44b14808
+"Will the later modules (module-05 and RisingWave workshop) be significantly impacted if I cannot run the *.sh files, making it impossible to complete the course?",data-engineering-zoomcamp,44b14808
+"Since past cohorts seemingly overcame this issue, is there any documentation or past student experience I could consult to find potential solutions for using Windows without WSL?",data-engineering-zoomcamp,44b14808
+"Is the provided Github document the only recommended resource, or are there others you might suggest?",data-engineering-zoomcamp,76e4baf6
+Are there specific sections within the 'awesome-data-engineering.md' document that are most relevant to this course?,data-engineering-zoomcamp,76e4baf6
+"How often is the 'awesome-data-engineering.md' document updated, and will we be notified of significant changes?",data-engineering-zoomcamp,76e4baf6
+Are there any specific books listed in the document that you would consider essential reading for the course?,data-engineering-zoomcamp,76e4baf6
+"If I'm unfamiliar with some of the tools mentioned in the document, are there any introductory materials or tutorials you can recommend?",data-engineering-zoomcamp,76e4baf6
+Is there a difference in grading criteria between Project Attempt #1 and Project Attempt #2?,data-engineering-zoomcamp,48b533a8
+"If I submit Project Attempt #1 early and it gets a failing grade, can I still use Attempt #2?",data-engineering-zoomcamp,48b533a8
+Are there any penalties for using Project Attempt #2?,data-engineering-zoomcamp,48b533a8
+What is the deadline for Project Attempt #2 if I fail the first attempt?,data-engineering-zoomcamp,48b533a8
+"If I submit Project Attempt #1 on time and get a passing grade, do I still need to do Attempt #2?",data-engineering-zoomcamp,48b533a8
+"I'm getting a 'column c.relhasoids does not exist' error in pgcli. I've tried restarting my computer and checked the pgcli documentation, but I'm still stuck.  What should I do next?",data-engineering-zoomcamp,954044d1
+"I followed video 3, step 7, and now my application is crashing. The error message is very long, and I don't know what part is relevant. How can I effectively communicate this error to get help?",data-engineering-zoomcamp,954044d1
+"I've uninstalled and reinstalled the application three times, and the issue persists.  The error message doesn't provide much information.  What other troubleshooting steps can I try?",data-engineering-zoomcamp,954044d1
+"Where is the best place to find answers to common questions – is it better to use the Slack search, the FAQ, or the ZoomcampQABot?",data-engineering-zoomcamp,954044d1
+"My code has a syntax error on line 42, but I can't figure out what's wrong. I've looked at the error message and tried to debug it, but no luck. Should I post this on Stack Overflow, and if so, how should I format my question?",data-engineering-zoomcamp,954044d1
+"I'm getting a 'NameError' in my Python code on Windows, but I can't figure out why.  I ran the code from a Jupyter Notebook and followed along with Video 3, but the error message doesn't give a line number. What should I do?",data-engineering-zoomcamp,a820b9b3
+"My C++ program compiles fine, but crashes when I run it on macOS. The error message says 'Segmentation fault: 11'.  I've tried restarting my computer, but nothing helped.  How do I provide enough info for you to help?",data-engineering-zoomcamp,a820b9b3
+I'm working on the Java assignment from the last week. I'm using IntelliJ on Linux and I keep getting a compiler error about an 'unresolved symbol'.  I've checked for typos and the error message doesn't give a line number. Where can I get more information on how to debug this?,data-engineering-zoomcamp,a820b9b3
+"I followed the instructions in Video 5 to set up my environment, but I'm still getting an error when I try to run the example code.  I'm using a Mac, and I've attached the error log as a screenshot. What information do you still need from me?",data-engineering-zoomcamp,a820b9b3
+"The troubleshooting guide mentioned in the FAQ didn't help with my problem.  I'm getting a 'TypeError' in my JavaScript code on my Linux machine.  I was following along with the code in the tutorial on the course website, specifically the section on arrays. I've tried restarting the browser, but nothing fixed it. What additional details should I include in my question?",data-engineering-zoomcamp,a820b9b3
+What if I don't have a GitHub account yet?  Do I need to make one immediately?,data-engineering-zoomcamp,f2945cd2
+The video on cloning repositories seems a bit complicated. Are there any written instructions I can follow instead?,data-engineering-zoomcamp,f2945cd2
+I'm not sure I understand pull requests. Could you give a simpler explanation of why and when I would use them for this course?,data-engineering-zoomcamp,f2945cd2
+The .gitignore file seems important. Are there any examples of what I should include in mine for this class?,data-engineering-zoomcamp,f2945cd2
+The FAQ mentions avoiding passwords and keys in Git. What are the risks if I don't follow this advice?,data-engineering-zoomcamp,f2945cd2
+What does 'Makefile:2: *** missing separator. Stop.' actually mean in the context of VS Code and tabs?,data-engineering-zoomcamp,eb9d376f
+How do I convert tabs to spaces or spaces to tabs in VS Code?  The FAQ answer isn't clear on the process.,data-engineering-zoomcamp,eb9d376f
+Is there a specific VS Code extension or setting I should use to ensure consistent tab/space usage?,data-engineering-zoomcamp,eb9d376f
+The FAQ says to 'Follow this stack'.  What stack is being referred to?  Is there a link or more detailed instructions?,data-engineering-zoomcamp,eb9d376f
+"If I'm not using Makefiles, could this 'missing separator' error still apply to my code in VS Code and how I handle tabs and spaces?",data-engineering-zoomcamp,eb9d376f
+"What if I don't have WSL2 installed, only WSL1?",data-engineering-zoomcamp,72f25f6d
+"Can I use this method to open other types of files besides HTML, like PDFs or images?",data-engineering-zoomcamp,72f25f6d
+"If I set the BROWSER environment variable, will that affect other applications running on WSL?",data-engineering-zoomcamp,72f25f6d
+Is there a way to do this without having to install `wslu`?,data-engineering-zoomcamp,72f25f6d
+My Windows browser path contains spaces; how should I handle that in the `export BROWSER` command?,data-engineering-zoomcamp,72f25f6d
+"Can you clarify the unzip command for the Taxi Data?  The FAQ says 'unzip' won't work, but doesn't explain the alternative fully.",data-engineering-zoomcamp,a1e59afc
+"Is there a video tutorial for setting up Chrome Remote Desktop on Compute Engine, or are there any other resources besides the one mentioned?",data-engineering-zoomcamp,a1e59afc
+"If the TLC website link is broken, will you update the FAQ with a working link in the future?",data-engineering-zoomcamp,a1e59afc
+What other operating systems are supported by Chrome Remote Desktop besides Debian Linux in the context of this module?,data-engineering-zoomcamp,a1e59afc
+"For the Taxi Data, are there instructions for handling the data after unzipping it?  Like how to import into a program like Python",data-engineering-zoomcamp,a1e59afc
+Can we use a different method besides `url.split('/')[-1]` to extract the filename from the URL?,data-engineering-zoomcamp,71c10610
+The FAQ mentions pandas can read `.csv.gz` directly.  Are there any performance implications compared to unzipping first?,data-engineering-zoomcamp,71c10610
+"If the URL structure changes, will the `url.split('/')[-1]` method still work reliably?",data-engineering-zoomcamp,71c10610
+What happens if the downloaded file is corrupted or not a valid `.csv.gz` file? How does the code handle errors?,data-engineering-zoomcamp,71c10610
+"Are there any examples of how to implement error handling (e.g., try-except blocks) when reading the `.csv.gz` file?",data-engineering-zoomcamp,71c10610
+Are there data dictionaries available for other NYC taxi datasets besides Yellow and Green trips?,data-engineering-zoomcamp,17a5aea1
+"Where can I find information about the data formats (e.g., CSV, JSON) for the taxi trip records?",data-engineering-zoomcamp,17a5aea1
+What is the meaning of all the different columns in the provided data dictionaries?,data-engineering-zoomcamp,17a5aea1
+How often is the data dictionary updated; should I expect changes to column names and descriptions?,data-engineering-zoomcamp,17a5aea1
+"Is there a single, consolidated data dictionary that covers both yellow and green taxi trip data?",data-engineering-zoomcamp,17a5aea1
+"If the file isn't named 'green_tripdata_2019-09.csv.gz', how do I adapt the unzip command?",data-engineering-zoomcamp,5a275db7
+"In the ingest_data.py solution,  why does it download the parquet file and then immediately convert it to a CSV? Why not just use the parquet file directly?",data-engineering-zoomcamp,5a275db7
+"The FAQ says to use 'pd.read_csv()'.  Is this the only way to import the CSV after unzipping, or are there other pandas functions that could be used?",data-engineering-zoomcamp,5a275db7
+The provided solution uses 'wget'. Are there alternative commands I could use to download the parquet file?,data-engineering-zoomcamp,5a275db7
+What if I encounter an error during the unzip process? How can I troubleshoot it?,data-engineering-zoomcamp,5a275db7
+"If I already have Git Bash installed on Windows, should I still add wget to my Git\mingw64\bin\ directory, or is there a better location?",data-engineering-zoomcamp,7ec0f9b0
+"The FAQ mentions using 'brew install wget' on MacOS.  If I don't have Homebrew installed, will the instructions for installing wget via Chocolatey on Windows also work on MacOS?",data-engineering-zoomcamp,7ec0f9b0
+"The FAQ suggests several ways to install wget on Windows.  Is there a recommended method for a beginner, and why is that method preferred?",data-engineering-zoomcamp,7ec0f9b0
+"After installing wget using Chocolatey, I still get the 'lwget is not recognized' error. What other steps can I take to troubleshoot this?",data-engineering-zoomcamp,7ec0f9b0
+The FAQ mentions using the 'requests' library in Python as an alternative to wget for downloading .gz files.  Could you provide a simple example of how to use 'requests' to download and save a .gz file?,data-engineering-zoomcamp,7ec0f9b0
+Will adding the '!' before wget work in other IDEs besides Jupyter Notebook and CLI?,data-engineering-zoomcamp,bb1ba786
+"If the Python wget method still fails, are there any other alternatives to download the file securely?",data-engineering-zoomcamp,bb1ba786
+"What are the security implications of using the `--no-check-certificate` flag, and are there safer alternatives?",data-engineering-zoomcamp,bb1ba786
+Is there a way to permanently fix the certificate verification issue on my MacOS system instead of adding the flag each time?,data-engineering-zoomcamp,bb1ba786
+My download still fails even after trying both methods. What other troubleshooting steps should I take?  Could it be a problem with my network connection?,data-engineering-zoomcamp,bb1ba786
+Will this command affect other terminals besides Git Bash?,data-engineering-zoomcamp,2f83dbe7
+What happens if I already have an escape character set in my .bashrc file?,data-engineering-zoomcamp,2f83dbe7
+Is there any performance impact from changing the escape character?,data-engineering-zoomcamp,2f83dbe7
+"If I don't change the escape character, will I still be able to complete the module exercises?",data-engineering-zoomcamp,2f83dbe7
+Are there any downsides to setting the backslash as the escape character?,data-engineering-zoomcamp,2f83dbe7
+Is there a way to use environment variables instead of storing secrets directly in Codespaces?,data-engineering-zoomcamp,543ff080
+What happens if I accidentally expose a secret in my Codespaces configuration?,data-engineering-zoomcamp,543ff080
+Are there any limitations on the types of secrets I can store in GitHub Codespaces?,data-engineering-zoomcamp,543ff080
+How do I revoke access to a secret if it's compromised?,data-engineering-zoomcamp,543ff080
+The GitHub Docs link is broken; is there an alternative guide or tutorial on securing secrets within Codespaces?,data-engineering-zoomcamp,543ff080
+What should I do if the `wsl --update` command doesn't resolve the Docker daemon connection issue?,data-engineering-zoomcamp,d407d65b
+"My Docker daemon is running, but I still get the connection error; what other troubleshooting steps can I take?",data-engineering-zoomcamp,d407d65b
+"The FAQ mentions checking the issue 'immediately down below', but there's nothing below the answer. Where can I find more information?",data-engineering-zoomcamp,d407d65b
+Are there alternative ways to connect to the Docker daemon besides unix:///var/run/docker.sock?,data-engineering-zoomcamp,d407d65b
+"If I'm using a different operating system besides Windows, how do I resolve the Docker daemon connection problem?",data-engineering-zoomcamp,d407d65b
+"If I'm using Windows 10 Home, and I've followed the WSL2 instructions but still get the 'The system cannot find the file specified' error, what other troubleshooting steps should I take?",data-engineering-zoomcamp,c9375c56
+The FAQ mentions enabling Hyper-V for Windows 10 Pro/11 Pro users.  Are there any performance implications to consider when using Hyper-V compared to WSL2?,data-engineering-zoomcamp,c9375c56
+The link for installing WSL2 is for Windows 11. Is the process significantly different for Windows 10?,data-engineering-zoomcamp,c9375c56
+What are the minimum system requirements for running Docker with WSL2 on Windows 10 Home?,data-engineering-zoomcamp,c9375c56
+"The error message mentions a connection to '//./pipe/docker_engine'. What exactly is this pipe, and why is it important for Docker to access it?",data-engineering-zoomcamp,c9375c56
+"If I get a 'permission denied' error when pulling a Docker image, does that always mean I need to `docker login`?",data-engineering-zoomcamp,e866156b
+The FAQ mentions a typo in `dbpage/pgadmin4`.  Are there any other common typos I should watch out for when pulling images?,data-engineering-zoomcamp,e866156b
+The FAQ says to use Docker Desktop instead of Rancher Desktop for macOS M1.  Are there any other system-specific considerations I should be aware of when setting up Docker for this module?,data-engineering-zoomcamp,e866156b
+Why might I still get a 'permission denied' error even after correcting a typo in the image name?,data-engineering-zoomcamp,e866156b
+"The FAQ addresses a 'permission denied' error related to mounted volumes on macOS M1. What should I do if I get a similar error on a different operating system (e.g., Windows or Linux)?",data-engineering-zoomcamp,e866156b
+What if I don't have sudo access?  How can I delete the folder then?,data-engineering-zoomcamp,16370470
+Is there a way to avoid creating these protected folders in the first place when mounting Docker volumes?,data-engineering-zoomcamp,16370470
+The FAQ says to use 'sudo rm -r -f'.  Isn't that risky? Are there safer alternatives?,data-engineering-zoomcamp,16370470
+"My Obsidian is also having access issues, but it's not related to a Docker volume.  Would this same command work for other folders causing access problems?",data-engineering-zoomcamp,16370470
+The example uses 'docker_test/'. What should I replace this with if my folder has a different name?,data-engineering-zoomcamp,16370470
+"If I'm using the Home edition of Windows 11, can I still use Docker, and if so, how?",data-engineering-zoomcamp,316df755
+The FAQ mentions switching between Windows and Linux containers.  What are the performance implications of each?,data-engineering-zoomcamp,316df755
+"My Docker is stuck starting, and I've already tried switching containers. What other troubleshooting steps can I take?",data-engineering-zoomcamp,316df755
+The FAQ says to enable Hyper-V.  Are there any drawbacks to using Hyper-V instead of WSL2?,data-engineering-zoomcamp,316df755
+"After uninstalling and reinstalling Docker, it's still not working. What further diagnostics should I run?",data-engineering-zoomcamp,316df755
+What tutorial is referenced for setting up Docker with WSL2 on Windows Home edition?,data-engineering-zoomcamp,f3aa9252
+"If resetting Docker to factory defaults doesn't work, what other troubleshooting steps are recommended?",data-engineering-zoomcamp,f3aa9252
+Are there any performance differences between running Docker commands from the Windows filesystem versus WSL?,data-engineering-zoomcamp,f3aa9252
+Does the recommendation to use WSL2 apply to Docker Desktop as well?,data-engineering-zoomcamp,f3aa9252
+"My WSL2 is set up correctly, but Docker is still stuck; what constitutes a 'fresh install' in this context?",data-engineering-zoomcamp,f3aa9252
+Where can I find the Docker documentation on best practices for file system performance?,data-engineering-zoomcamp,a4abe7a5
+"Is using WSL2 the only way to run Docker on Windows 10 Home/11 Home, or are there alternatives with better performance?",data-engineering-zoomcamp,a4abe7a5
+"If I don't store all my code in my default Linux distro on WSL2, will Docker still work, and if so, what performance impact should I expect?",data-engineering-zoomcamp,a4abe7a5
+What are the specific performance benefits of storing all code in the default Linux distro when using Docker on WSL2?,data-engineering-zoomcamp,a4abe7a5
+Are there any other recommendations besides storing all code in the default Linux distro to optimize Docker performance on WSL2?,data-engineering-zoomcamp,a4abe7a5
+"What if I'm not using Mintty, but another terminal emulator like Cmder or Git Bash? Will winpty still work?",data-engineering-zoomcamp,fb930700
+"Does the `winpty` solution work for all Docker commands, or just those using `-it`?",data-engineering-zoomcamp,fb930700
+"If I add the alias to my `.bashrc` or `.bash_profile`, do I need to restart my terminal for it to take effect?",data-engineering-zoomcamp,fb930700
+My Windows installation doesn't have `winpty` installed. How can I install it?,data-engineering-zoomcamp,fb930700
+Are there any alternative solutions to the 'input device is not a TTY' error besides using `winpty`?,data-engineering-zoomcamp,fb930700
+Why does using `winpty` solve the DNS resolution issue when installing pandas inside a Docker container on Windows?,data-engineering-zoomcamp,aa187680
+What other DNS servers besides 8.8.8.8 could I use with the `--dns` flag?,data-engineering-zoomcamp,aa187680
+"If I encounter a similar error with a different package besides pandas, can I still use this `winpty` and `--dns` solution?",data-engineering-zoomcamp,aa187680
+Is there a way to permanently configure my Docker container to use a specific DNS server without specifying it every time I run the container?,data-engineering-zoomcamp,aa187680
+My error message is slightly different; it doesn't mention name resolution but still relates to connection issues.  Is this solution still relevant or are there other troubleshooting steps for connection problems in Docker on Windows?,data-engineering-zoomcamp,aa187680
+"Why is my ny_taxi_postgres_data folder still empty after running the provided Docker command, even though I've used the absolute path as instructed?",data-engineering-zoomcamp,b000e899
+The FAQ solution is for Windows. What's the equivalent command for macOS or Linux?,data-engineering-zoomcamp,b000e899
+"The FAQ mentions using 'winpty'. What does 'winpty' do, and is it necessary for all users?",data-engineering-zoomcamp,b000e899
+My absolute path is very long. Is there a way to shorten it or use a relative path instead?,data-engineering-zoomcamp,b000e899
+"After running the command, Postgres is running but the database 'ny_taxi' isn't created.  What could be the problem?",data-engineering-zoomcamp,b000e899
+"Is the article on setting up Docker on macOS still relevant, given the changes to Docker's licensing?",data-engineering-zoomcamp,9c66759f
+"If the article is outdated, are there any specific known compatibility issues with older instructions?",data-engineering-zoomcamp,9c66759f
+Why does downloading the DMG directly from the Docker website seem to be a more reliable method than the instructions in the article?,data-engineering-zoomcamp,9c66759f
+Are there any potential downsides to downloading the DMG directly from the Docker website compared to using the method described in the article?,data-engineering-zoomcamp,9c66759f
+What version of Docker is recommended for completing the exercises in Module 1?,data-engineering-zoomcamp,9c66759f
+Why does the error message specify 'invalid mode'? What does 'mode' refer to in this context?,data-engineering-zoomcamp,58c9f99f
+Are there any other potential issues besides the mounting path that could cause this 'invalid mode' error?,data-engineering-zoomcamp,58c9f99f
+The suggested solutions use different drive letters (e: and c:).  Does the choice of drive letter depend on my operating system?,data-engineering-zoomcamp,58c9f99f
+"If I have other applications using the same directory, can I still use the suggested method?  What might the consequences be?",data-engineering-zoomcamp,58c9f99f
+My 'Program Files' path is slightly different – it contains additional subfolders. How can I adapt the suggested solutions to work with my specific path?,data-engineering-zoomcamp,58c9f99f
+Why does the error 'error while creating buildmount source path '/run/desktop/mnt/host/c/<your path>': mkdir /run/desktop/mnt/host/c: file exists' only appear on the second run of the docker command?,data-engineering-zoomcamp,bc42139a
+"If I don't want to mount the volume on the second run, what are the implications for my Postgres database data?",data-engineering-zoomcamp,bc42139a
+Is there a way to automatically handle this error without manually removing the mount point each time?,data-engineering-zoomcamp,bc42139a
+What happens to the data in my Postgres database if I don't mount the volume on subsequent runs?,data-engineering-zoomcamp,bc42139a
+"The FAQ solution suggests omitting the volume mount on subsequent runs; are there alternative solutions to avoid this error, such as using a named volume instead?",data-engineering-zoomcamp,bc42139a
+"If I move the Dockerfile and ingest_data.py files to a new directory, will that affect how my other files within the original directory are processed later in the module?",data-engineering-zoomcamp,a146e3ee
+"The FAQ mentions changing directory permissions.  Are there any security risks associated with using `sudo chown` and are there better, more secure ways to handle this issue?",data-engineering-zoomcamp,a146e3ee
+"The provided Stack Overflow link is helpful, but it's quite general.  Are there specific Dockerfile best practices to prevent this type of 'can't stat' error in the future?",data-engineering-zoomcamp,a146e3ee
+"The FAQ suggests creating a new directory.  Should this new directory be within my original project directory, or is a completely separate location better?",data-engineering-zoomcamp,a146e3ee
+"My Windows machine is giving me a slightly different error message, although the root cause seems similar.  Can I still use the solutions described, or will I need to find a Windows-specific solution not included in the FAQ?",data-engineering-zoomcamp,a146e3ee
+"If I uninstall Docker installed via snap, will my existing Docker images and containers be lost?",data-engineering-zoomcamp,593a85ba
+"What's the official website to download Docker, and are there different versions I should be aware of for this module?",data-engineering-zoomcamp,593a85ba
+The error message says 'port is already in use'. How can I identify which process is using port 5432?,data-engineering-zoomcamp,593a85ba
+"After reinstalling Docker from the official website, do I need to reconfigure anything for it to work with the Terraform projects in this module?",data-engineering-zoomcamp,593a85ba
+"My 'snap status docker' command shows Docker is running, but I'm still getting the 'context canceled' error.  What other troubleshooting steps should I try?",data-engineering-zoomcamp,593a85ba
+Is there a less risky way to fix the permission issue than using `sudo chmod -R 777`?  I'm worried about security implications.,data-engineering-zoomcamp,50bd1a71
+What if the `ny_taxi_postgres_data` folder isn't directly in my home directory? How would I adapt the `chmod` command?,data-engineering-zoomcamp,50bd1a71
+The FAQ mentions a problem with authorization rights. What other authorization problems might I encounter in this module and how can I prevent them?,data-engineering-zoomcamp,50bd1a71
+"Will this permission issue only occur on PopOS, or could I expect similar problems on other Linux distributions or Windows?",data-engineering-zoomcamp,50bd1a71
+"If I encounter a similar build error but it's not related to permissions,  what are some other common causes and troubleshooting steps for Docker build errors?",data-engineering-zoomcamp,50bd1a71
+What if using `sudo chmod -R 777 ny_taxi_postgres_data` still doesn't solve the permission denied error?,data-engineering-zoomcamp,f409f751
+Why does this permission issue only seem to happen when rebuilding the Docker image?,data-engineering-zoomcamp,f409f751
+Are there any security risks associated with using `chmod 777`?  Should I use a less permissive setting if possible?,data-engineering-zoomcamp,f409f751
+"Is there a way to avoid this permission problem altogether, without using `sudo` every time?",data-engineering-zoomcamp,f409f751
+"My operating system isn't Ubuntu/Linux; will I encounter a similar error, and if so, how would I fix it?",data-engineering-zoomcamp,f409f751
+How do I create a new Docker network?,data-engineering-zoomcamp,7d217da3
+What happens if I have multiple networks listed in `docker network ls`?,data-engineering-zoomcamp,7d217da3
+Can I specify a custom name when creating a Docker network?,data-engineering-zoomcamp,7d217da3
+Is there a way to delete a Docker network using the command line?,data-engineering-zoomcamp,7d217da3
+"If I use a network name in a Docker Compose file, will it automatically create the network if it doesn't exist?",data-engineering-zoomcamp,7d217da3
+"What if the `docker stop` command doesn't work, and I still get the same error?",data-engineering-zoomcamp,09081824
+Is there a way to list all containers using the name 'pg-database' to make sure I'm removing the correct one?,data-engineering-zoomcamp,09081824
+"If I use `docker start` instead of `docker run`, will it always avoid this conflict?",data-engineering-zoomcamp,09081824
+The FAQ mentions using the appropriate container name. How do I find the exact container name if I only know a part of it?,data-engineering-zoomcamp,09081824
+Are there any other common reasons for getting this 'Conflict. The container name... is already in use' error besides a running container with the same name?,data-engineering-zoomcamp,09081824
+How do I find the name of the network created when I run `docker-compose up -d`?,data-engineering-zoomcamp,4df80c55
+What if the database name isn't `pgdatabase` in my `docker-compose.yml` file?,data-engineering-zoomcamp,4df80c55
+Is there a way to avoid this issue without having to change the ingestion script?,data-engineering-zoomcamp,4df80c55
+What does the '2' prefix in `2docker_default` and `2docker-pgdatabase-1` represent?,data-engineering-zoomcamp,4df80c55
+"If I'm using a different database system (e.g., MySQL), how would I adapt the solution described in the FAQ?",data-engineering-zoomcamp,4df80c55
+Will these commands work if I'm using a different virtualization software besides VMware?,data-engineering-zoomcamp,3aee7261
+What should I do if I get an error message after running those modprobe commands?,data-engineering-zoomcamp,3aee7261
+My CPU isn't Intel or AMD; what's the equivalent command for my [specific CPU architecture]?,data-engineering-zoomcamp,3aee7261
+Are there any performance implications to enabling nested virtualization?,data-engineering-zoomcamp,3aee7261
+"If I'm using a pre-built VM image provided by the course, do I still need to run these commands?",data-engineering-zoomcamp,3aee7261
+How do I find my container ID to use the docker stop command?,data-engineering-zoomcamp,6497b659
+What if the VS Code Docker extension isn't working even after installation?,data-engineering-zoomcamp,6497b659
+"Does the VS Code Docker extension support all Docker commands, or are there limitations?",data-engineering-zoomcamp,6497b659
+"If my Docker Desktop is running on Windows, not WSL2, will the VS Code extension still connect correctly?",data-engineering-zoomcamp,6497b659
+Are there any alternative ways to stop a Docker container besides using the command line?,data-engineering-zoomcamp,6497b659
+What other reasons could cause a PostgreSQL container to stop unexpectedly besides a problem with the data directory?,data-engineering-zoomcamp,a02f2039
+"If deleting the data directory and restarting the container doesn't fix the issue, what troubleshooting steps should I take next?",data-engineering-zoomcamp,a02f2039
+Are there any best practices to prevent PostgreSQL containers from terminating abnormally?,data-engineering-zoomcamp,a02f2039
+How can I monitor the health of my PostgreSQL container to avoid this issue in the future?,data-engineering-zoomcamp,a02f2039
+The FAQ mentions the -v flag for mapping the directory. What are the other important flags I should be aware of when running a PostgreSQL Docker container?,data-engineering-zoomcamp,a02f2039
+What if the `sudo snap install docker` command fails?,data-engineering-zoomcamp,c6db65aa
+Are there any other methods to install Docker on Ubuntu besides using snap?,data-engineering-zoomcamp,c6db65aa
+Which specific versions of Ubuntu have compatibility issues with the standard Docker installation method?,data-engineering-zoomcamp,c6db65aa
+"My Ubuntu version is [version number], is snap the recommended way to install Docker?",data-engineering-zoomcamp,c6db65aa
+"After installing Docker via snap, how do I verify the installation and start the Docker service?",data-engineering-zoomcamp,c6db65aa
+What does the error 'Couldn’t translate host name to address' specifically mean in the context of Docker Compose and PostgreSQL?,data-engineering-zoomcamp,e41b100c
+The FAQ mentions checking if the postgres database is running.  How can I definitively confirm it's running beyond just checking `docker ps`?,data-engineering-zoomcamp,e41b100c
+"The logs show an 'invalid record length' error. Does this indicate a problem with my database data, or is it a Docker/PostgreSQL configuration issue?",data-engineering-zoomcamp,e41b100c
+"If `docker ps` doesn't show `pgdatabase` running,  the FAQ suggests using `docker ps -a`. What if `docker ps -a` still doesn't show it, or shows it as stopped?",data-engineering-zoomcamp,e41b100c
+"After resolving the 'Couldn’t translate host name to address' error, how do I ensure the connection between my application and the PostgreSQL database is correctly established?",data-engineering-zoomcamp,e41b100c
+How do I find the Docker Compose network name in the logs after running `docker-compose up`?,data-engineering-zoomcamp,cd0f9300
+"What if I can't find the network name in the logs, are there any other ways to identify it?",data-engineering-zoomcamp,cd0f9300
+My Ingestion script still fails even after changing the network name. What other troubleshooting steps should I take?,data-engineering-zoomcamp,cd0f9300
+Why is Docker Compose creating a default network instead of using the one specified in my docker-compose.yml file (if I have one)?,data-engineering-zoomcamp,cd0f9300
+Could you provide a more detailed explanation on how to use HeidiSQL or usql as alternatives to pgcli?,data-engineering-zoomcamp,cd0f9300
+"Why does the error 'network 66ae65944d643fdebbc89bd0329f1409dec2c9e12248052f5f4c4be7d1bdc6a3 not found' appear, and what does 'd to nuke all the containers' actually do?",data-engineering-zoomcamp,7f845a1c
+The FAQ suggests changing the hostname to remove hyphens.  Are there any other naming conventions I should follow when defining container hostnames in Docker Compose?,data-engineering-zoomcamp,7f845a1c
+"The FAQ mentions specifying the docker network in both containers.  Where exactly in the docker-compose.yml file should this be done, and what happens if I don't?",data-engineering-zoomcamp,7f845a1c
+"If I run `docker ps -a` and see multiple stopped containers, is it always safe to remove them all using the suggested method?",data-engineering-zoomcamp,7f845a1c
+"The FAQ provides a solution for the 'Name does not resolve' error with the database, but what if I still encounter this issue even after following all the suggested steps and using a hyphen-free hostname?",data-engineering-zoomcamp,7f845a1c
+"If I use a named volume like 'pgadmin' instead of a host path, where exactly is the data stored on the GCP instance?",data-engineering-zoomcamp,36e54439
+"What if I'm not using docker-compose, but just a single docker run command for pgAdmin? How would I ensure persistent storage then?",data-engineering-zoomcamp,36e54439
+The FAQ mentions GCP;  would this solution for persistent volumes work on other cloud providers like AWS or Azure?,data-engineering-zoomcamp,36e54439
+Are there any performance implications associated with using named volumes versus host path volumes in this scenario?,data-engineering-zoomcamp,36e54439
+"Besides Docker Volumes, are there any other methods to achieve persistent storage for pgAdmin data within a Docker container running on GCP?",data-engineering-zoomcamp,36e54439
+What exactly does 'failed to fetch extensions' mean in the context of Docker?,data-engineering-zoomcamp,32e8450c
+"If updating Docker doesn't fix the 'stopped_failed to fetch extensions' error, what are the exact steps for reinstalling it?",data-engineering-zoomcamp,32e8450c
+How long does it usually take to reinstall Docker and refetch the images?,data-engineering-zoomcamp,32e8450c
+Are there any specific files or configurations I need to back up before reinstalling Docker?,data-engineering-zoomcamp,32e8450c
+"My Docker keeps crashing; could there be an issue beyond the extensions, such as insufficient system resources?",data-engineering-zoomcamp,32e8450c
+What happens if the pgAdmin_data folder doesn't exist before running docker-compose up?,data-engineering-zoomcamp,96606db2
+"If I use a different username and group in my container, how should I adjust the chown command?",data-engineering-zoomcamp,96606db2
+Can I use a different path for the volume on the host machine?  What are the implications?,data-engineering-zoomcamp,96606db2
+"The FAQ mentions giving the container write access. What are the security implications of this, and are there best practices to mitigate any risks?",data-engineering-zoomcamp,96606db2
+Is there a way to persist configuration without using volumes?  Are there any alternative approaches?,data-engineering-zoomcamp,96606db2
+"I followed the instructions in guides/docker-without-sudo.md, but I'm still getting the permission denied error.  What else could be wrong?",data-engineering-zoomcamp,0882bfac
+The docker-compose.yaml file example shows 'Pgadmin_data:' under volumes. Shouldn't it be 'pgadmin_data:'?,data-engineering-zoomcamp,0882bfac
+"After adding the volume for pgAdmin, will my database connections persist even if I restart my entire Docker machine?",data-engineering-zoomcamp,0882bfac
+Where exactly should I add the `volumes` section with `pgadmin_data` in my `docker-compose.yaml` file?  Before or after existing services?,data-engineering-zoomcamp,0882bfac
+"If I'm using a different database system instead of pgAdmin, how would I adapt the volume creation instructions to preserve its state?",data-engineering-zoomcamp,0882bfac
+Why didn't the `docker-compose` command work after adding it to my `.bashrc` even after sourcing it?,data-engineering-zoomcamp,7d067f5c
+Is there a way to check which version of docker-compose is currently installed and being used?,data-engineering-zoomcamp,7d067f5c
+"If I already have Docker Compose installed from another source, will the method in the 1.4.1 video conflict or overwrite it?",data-engineering-zoomcamp,7d067f5c
+What are the potential issues of having a file named `docker-compose-linux-x86_64` instead of `docker-compose`?,data-engineering-zoomcamp,7d067f5c
+The FAQ says to rename `docker-compose-linux-x86_64` to `docker-compose`.  Is this a safe operation and will it not break anything?,data-engineering-zoomcamp,7d067f5c
+Why did installing 'pass' resolve the Docker Compose credential error?,data-engineering-zoomcamp,ff352621
+"Is 'sudo apt install pass' the only solution for this Docker Compose error, or are there alternatives?",data-engineering-zoomcamp,ff352621
+"The link provided mentions BuildKit;  is this error specifically related to BuildKit, or could it occur with other Docker setups?",data-engineering-zoomcamp,ff352621
+"If I'm not using a Linux system, how would I address this Docker Compose credential issue?",data-engineering-zoomcamp,ff352621
+Will installing 'pass' affect other applications or system settings?  Are there any potential side effects?,data-engineering-zoomcamp,ff352621
+What should I do if I get a different error message than those mentioned in the FAQ regarding docker-compose.yml?,data-engineering-zoomcamp,2d653208
+The FAQ mentions creating a new volume.  Does it matter what name I give this volume?,data-engineering-zoomcamp,2d653208
+The attachment for the modified docker-compose.yml file isn't showing up. Where can I find it?,data-engineering-zoomcamp,2d653208
+"The FAQ says to set `low_memory=False`. What happens if I don't, and what are the potential consequences?",data-engineering-zoomcamp,2d653208
+"Step (2) says to ensure no other containers are running. How do I check what containers are currently running, and how do I stop them if needed?",data-engineering-zoomcamp,2d653208
+Where exactly is the Users/username/.docker directory located? I'm having trouble finding it on my system.,data-engineering-zoomcamp,f09ea61e
+My config.json file doesn't have a 'credsStore' field. What should I do then?,data-engineering-zoomcamp,f09ea61e
+"After changing 'credStore' to 'credsStore', the error persists.  Are there any other troubleshooting steps?",data-engineering-zoomcamp,f09ea61e
+Is there a way to fix this without modifying the config.json file directly? Perhaps a command-line solution?,data-engineering-zoomcamp,f09ea61e
+"My Docker Desktop is up-to-date, and I still get this error. Could it be related to other software conflicts?",data-engineering-zoomcamp,f09ea61e
+What if `uname -s` doesn't return Linux? What should I do then?,data-engineering-zoomcamp,fbd3d2bb
+Is there a way to check my docker-compose version after I've installed it?,data-engineering-zoomcamp,fbd3d2bb
+The command `sudo curl ...`  gave me an error.  How can I troubleshoot this?,data-engineering-zoomcamp,fbd3d2bb
+Why is it important to use the correct `docker-compose` binary for WSL?,data-engineering-zoomcamp,fbd3d2bb
+Are there any other ways to install `docker-compose` besides using the curl command?,data-engineering-zoomcamp,fbd3d2bb
+Is there a way to troubleshoot other undefined volume errors besides the dtc_postgres_volume_local example?,data-engineering-zoomcamp,0b014d0c
+What if I have multiple undefined volumes? Do I need to add each one individually as shown in the example?,data-engineering-zoomcamp,0b014d0c
+My docker-compose file is different from the video's; how can I adapt the solution to my specific situation?,data-engineering-zoomcamp,0b014d0c
+The error message isn't exactly the same as the example.  What other potential error messages might indicate an undefined volume?,data-engineering-zoomcamp,0b014d0c
+"If I'm not using Windows or WSL, could I still encounter this undefined volume error, and if so, how would I resolve it?",data-engineering-zoomcamp,0b014d0c
+"What are the specific steps to install psycopg2 using pip, and where should I run this command?",data-engineering-zoomcamp,6afb7b55
+"If I'm not using Git Bash or a Windows VM, will pgAdmin still work, or are there other potential issues?",data-engineering-zoomcamp,6afb7b55
+"Besides psycopg2, are there other libraries that might be needed for pgAdmin to work correctly within a Docker container?",data-engineering-zoomcamp,6afb7b55
+The FAQ mentions 'libpq' is needed; what is libpq and how do I ensure it's installed correctly?,data-engineering-zoomcamp,6afb7b55
+"Is there a comprehensive guide or tutorial that details the process of setting up Postgres, pgAdmin, and psycopg2 within a Docker environment, addressing potential compatibility issues?",data-engineering-zoomcamp,6afb7b55
+"If I update Windows Terminal and Security, but the error persists, what other troubleshooting steps should I take?",data-engineering-zoomcamp,b51c3b82
+Are there specific versions of Windows Terminal or WSL that are known to work best with this module?,data-engineering-zoomcamp,b51c3b82
+"My system is quite low on disk space. Could that be contributing to the 'insufficient system resources' error, even if I update everything?",data-engineering-zoomcamp,b51c3b82
+The FAQ mentions restarting the system. How long should I wait after updating before restarting?,data-engineering-zoomcamp,b51c3b82
+"The FAQ focuses on Windows updates.  What if I'm using a different operating system for WSL, like Ubuntu?  Will the same solutions apply?",data-engineering-zoomcamp,b51c3b82
+"What does 'reg add' actually do in the context of the DNS fix, and why are we changing the 'Start' value twice?",data-engineering-zoomcamp,326af690
+Solution 2 mentions switching to Linux containers; does this mean I need to have both Windows and Linux containers enabled in Docker for this to work?,data-engineering-zoomcamp,326af690
+"The FAQ mentions 'bash: conda: command not found'.  Is this a separate issue from the WSL problem, or could it be related?",data-engineering-zoomcamp,326af690
+"The error 'Database is uninitialized and superuser password is not specified' appears twice.  What database is this referring to, and how do I initialize it and set a password?",data-engineering-zoomcamp,326af690
+"If neither Solution 1 nor Solution 2 works, are there any other troubleshooting steps I can take to resolve the WSL exit code 1 issue?",data-engineering-zoomcamp,326af690
+Why does using `sudo` before the ssh command sometimes work to fix the permissions issue?,data-engineering-zoomcamp,c2ec9047
+"If copying the .ssh folder doesn't work, what other troubleshooting steps can I take?",data-engineering-zoomcamp,c2ec9047
+What are the specific permissions I should set for the files and folders within the WSL2 .ssh directory?,data-engineering-zoomcamp,c2ec9047
+My username in Windows is different from my username on the GPC VM.  How should I adapt the `cp` command in this scenario?,data-engineering-zoomcamp,c2ec9047
+"The FAQ mentions using `chmod 600 gpc`.  Is 'gpc' the filename of my private key, or should I replace it with my actual private key filename?",data-engineering-zoomcamp,c2ec9047
+"If I'm using a different Linux distribution in WSL,  will the instructions for creating the .ssh/config file still be the same?",data-engineering-zoomcamp,3b711e73
+My WSL2 home directory seems different from what's described. How do I locate the correct home directory to create the .ssh folder?,data-engineering-zoomcamp,3b711e73
+"What if I already have an .ssh folder in my WSL2 home directory, but I'm still getting the 'Could not resolve host name' error? Should I replace my existing config file?",data-engineering-zoomcamp,3b711e73
+The FAQ mentions using the GPC VM external IP. Where can I find this IP address?,data-engineering-zoomcamp,3b711e73
+"After I create the .ssh/config file with the correct information,  what steps should I take to test the connection to the GPC VM?",data-engineering-zoomcamp,3b711e73
+"If changing to socket doesn't work, what other troubleshooting steps can I take for the PGCLI connection error?",data-engineering-zoomcamp,cfe07c9d
+"The FAQ shows using 'root' as the username. Is this the standard username for all PostgreSQL setups in this module, or should I be using a different username?",data-engineering-zoomcamp,cfe07c9d
+The example uses the database 'ny_taxi'.  Where can I find instructions on creating this database if it doesn't already exist?,data-engineering-zoomcamp,cfe07c9d
+The FAQ only provides the command line.  Are there any GUI tools or alternative methods to connect to the PostgreSQL database using pgcli?,data-engineering-zoomcamp,cfe07c9d
+Does the  `-h 127.0.0.1` always refer to localhost? What would I do if my database server is on a different machine?,data-engineering-zoomcamp,cfe07c9d
+What does 'sy' refer to in the answer for the PGCLI --help error?,data-engineering-zoomcamp,acf42bb8
+"If the PGCLI --help error isn't due to installation, what other reasons could cause it?",data-engineering-zoomcamp,acf42bb8
+Are there any specific troubleshooting steps for PGCLI installation issues beyond checking 'sy'?,data-engineering-zoomcamp,acf42bb8
+What are the prerequisites for using PGCLI in the context of this module?,data-engineering-zoomcamp,acf42bb8
+Is there a more detailed explanation of the PGCLI command and its expected behavior?,data-engineering-zoomcamp,acf42bb8
+"If I don't map port 5432, do I then need to run pgcli inside a Docker container?",data-engineering-zoomcamp,176ce516
+What are the security implications of mapping port 5432 directly to my host machine?,data-engineering-zoomcamp,176ce516
+"Are there any advantages to running pgcli inside a Docker container, even if port 5432 is mapped?",data-engineering-zoomcamp,176ce516
+This explanation mentions accessing the database 'directly from your computer'.  Does this mean I need to have PostgreSQL installed locally?,data-engineering-zoomcamp,176ce516
+"If I'm working on a project that requires multiple PostgreSQL databases, should I still map port 5432 for each, or is there a better approach?",data-engineering-zoomcamp,176ce516
+"If I'm not using MacOS, how can I identify and stop a local Postgres service that's blocking port 5432?",data-engineering-zoomcamp,3e5d1e9b
+"The FAQ mentions using 'pgcli -h localhost -p 5431 -u root -d ny_taxi', but what if my database name isn't 'ny_taxi'? How do I adjust the command?",data-engineering-zoomcamp,3e5d1e9b
+"The FAQ suggests changing the port to 5431, but what if that port is also occupied? How can I find an available port and adjust the Docker command accordingly?",data-engineering-zoomcamp,3e5d1e9b
+"I tried changing the port, but I'm still getting the password authentication error.  What are some other potential reasons for this, besides a conflicting local Postgres instance?",data-engineering-zoomcamp,3e5d1e9b
+The FAQ references a video (1.4.2) for more detail.  Are there any written supplementary materials that explain port mapping and networking in Docker in more detail?,data-engineering-zoomcamp,3e5d1e9b
